@@ -8,6 +8,9 @@
     width: 100px;
     float: left;
     cursor: pointer;
+    background-color: gray;
+    line-height: 100px;
+    font-size: 75px
 }
 
 .row {
@@ -18,7 +21,6 @@
 
 .top {
     border-bottom: 1px black solid;
-    background-color: aquamarine;
 }
 
 .bottom {
